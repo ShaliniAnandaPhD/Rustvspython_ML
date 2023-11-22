@@ -1,6 +1,6 @@
 # Rustvspython_ML
 
-# ML-Showdown: Rust vs Python
+# ML-Showdown: Rust vs Python (CNN ;
 
 Welcome to the ML-Showdown repository! This project aims to compare and contrast Rust and Python in the context of machine learning (ML). We'll explore the strengths, limitations, and ideal use cases for each language in ML development.
 
